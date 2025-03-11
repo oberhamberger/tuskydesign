@@ -13,5 +13,6 @@
     "typecheck": {
       "cache": true
     }
-  }
+  },
+  "defaultBase": "main"
 }
